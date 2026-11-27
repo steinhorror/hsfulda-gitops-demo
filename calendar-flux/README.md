@@ -13,7 +13,7 @@
 5. Run the following command
 
 ```bash
-flux bootstrap github --token-auth --owner=<your github user> --repository=<your repo> --branch=main --path=calendar-flux --personal --components-extra=image-reflector-controller,image-automation-controller
+flux bootstrap github --token-auth --owner=steinhorror --repository=hsfulda-gitops-demo --branch=main --path=calendar-flux --personal --components-extra=image-reflector-controller,image-automation-controller
 ```
 
 ## Image Update Automation
