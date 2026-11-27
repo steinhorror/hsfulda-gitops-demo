@@ -28,4 +28,4 @@ spec:
     name: calendar-app
   values:
     image:
-      tag: main # {"$imagepolicy": "calendar-app:calendar-app:tag"}
+      tag: main-1 # {"$imagepolicy": "calendar-app:calendar-app:tag"}
